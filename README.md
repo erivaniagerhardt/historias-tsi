@@ -1,5 +1,5 @@
 # historias-tsi
-Destinado ao uso da disciplina de engenharia de software 
+Desenvolvimento de um projeto de uma história em quadrinhos para a disciplina de engenharia de software do curso de TSI.
 
 # A Armadilha Digital - Guia prático sobre segurança digital
 
