@@ -1,5 +1,7 @@
 # historias-tsi
-Destinado ao uso da disciplina de engenharia de software 
+Destinado ao uso da disciplina de engenharia de software. 
+
+### ATENÇÃO: Foi criada a branch DEVELOP onde as alterações estão sendo salvas. Favor selecioná-la para conferir o andamento.
 
 # A Armadilha Digital - Guia prático sobre segurança digital
 
