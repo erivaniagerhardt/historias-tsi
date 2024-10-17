@@ -35,3 +35,20 @@ Desenvolvimento de um projeto de uma história em quadrinhos para a disciplina d
 
 - **Capítulo 5: Dicas de Segurança**  
   A história finaliza com uma seção educativa, oferecendo dicas sobre como navegar com segurança na internet, evitar cliques suspeitos, usar antivírus, e verificar boletos e links.
+
+
+
+O Product Backlog é uma lista de tudo o que precisa ser feito no projeto.
+
+*Criar roteiro da história em quadrinhos
+*Criar perfil dos personagens
+*Criar imagens dos quadrinhos
+*Criar um guia rápido sobre segurança digital
+*Revisão do conteúdo
+
+
+
+Link do gerenciamento do Product Backlog: https://grupotsi.atlassian.net/browse/HQ
+
+Link do Product Backlog: https://grupotsi.atlassian.net/jira/software/projects/HQ/boards/2/backlog
+
