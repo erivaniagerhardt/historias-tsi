@@ -1,4 +1,4 @@
-# historias-tsi
+# historias-TSI
 Desenvolvimento de um projeto de uma história em quadrinhos para a disciplina de engenharia de software do curso de TSI.
 
 # A Armadilha Digital - Guia prático sobre segurança digital
@@ -19,6 +19,7 @@ Desenvolvimento de um projeto de uma história em quadrinhos para a disciplina d
 2. Educar sobre a importância de usar antivírus e verificar a autenticidade de boletos e links.
 3. Mostrar as consequências de não seguir boas práticas de segurança digital.
 4. Fornecer dicas práticas de como evitar armadilhas online e golpes cibernéticos.
+5. Promover a reflexão crítica sobre o uso seguro das redes sociais e a privacidade online.
 
 ## Estrutura Inicial da História:
 - **Capítulo 1: A Isca**  
@@ -35,7 +36,6 @@ Desenvolvimento de um projeto de uma história em quadrinhos para a disciplina d
 
 - **Capítulo 5: Dicas de Segurança**  
   A história finaliza com uma seção educativa, oferecendo dicas sobre como navegar com segurança na internet, evitar cliques suspeitos, usar antivírus, e verificar boletos e links.
-
 
 
 O Product Backlog é uma lista de tudo o que precisa ser feito no projeto.
