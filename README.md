@@ -44,6 +44,7 @@ O Product Backlog é uma lista de tudo o que precisa ser feito no projeto.
 *Criar perfil dos personagens
 *Criar imagens dos quadrinhos
 *Criar um guia rápido sobre segurança digital
+*Fazer edição e montagem do layout dos quadrinhos
 *Revisão do conteúdo
 
 
@@ -51,4 +52,17 @@ O Product Backlog é uma lista de tudo o que precisa ser feito no projeto.
 Link do gerenciamento do Product Backlog: https://grupotsi.atlassian.net/browse/HQ
 
 Link do Product Backlog: https://grupotsi.atlassian.net/jira/software/projects/HQ/boards/2/backlog
+
+- Sprint Backlog : https://grupotsi.atlassian.net/jira/software/projects/HQ/list?filter=Sprint%20in%20openSprints%28%29
+
+- Local onde será gerenciado o Sprint. https://grupotsi.atlassian.net/jira/software/projects/HQ/boards/2
+
+- https://grupotsi.atlassian.net/jira/software/projects/HQ/boards/2
+
+Quadro Kanban:
+https://grupotsi.atlassian.net/jira/software/projects/KAN/boards/1
+
+História em quadrinhos pronta: https://github.com/erivaniagerhardt/historias-tsi/blob/27073a8ac7fa670cde71e5603b5b528357804afc/historia%20em%20quadrinhoo.pdf
+
+
 
