@@ -48,6 +48,12 @@ O Product Backlog é uma lista de tudo o que precisa ser feito no projeto.
 *Revisão do conteúdo
 
 
+Print da sprint: https://github.com/erivaniagerhardt/historias-tsi/blob/e79a32cc5da389fb90a1d47580ef6d14fa7912ad/sprint%201.png
+
+Print Product Backlog: https://github.com/erivaniagerhardt/historias-tsi/blob/e79a32cc5da389fb90a1d47580ef6d14fa7912ad/Backlog.png
+
+Print Quadro Kanban: https://github.com/erivaniagerhardt/historias-tsi/blob/e79a32cc5da389fb90a1d47580ef6d14fa7912ad/kanban.png
+
 
 Link do gerenciamento do Product Backlog: https://grupotsi.atlassian.net/browse/HQ
 
